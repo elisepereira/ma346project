@@ -1,7 +1,7 @@
-import streamlit as st
-import pandas as pd
-import statsmodels.api as sm
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.metrics import mean_squared_error
+streamlit == 0.70.0
+pandas== 1.1.4
+statsmodels == 0.12.2
+numpy== 1.19.4
+matplotlib == 3.3.2
+seaborn == 0.11.1
+scikit-learn == 0.24.1
